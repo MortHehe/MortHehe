@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ ANIMATED TYPING HEADER ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mort+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Working+From+Home+%F0%9F%8F%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I%27m+Mort+%F0%9F%91%8B;Fullstack+Web+Developer;Laravel+%26+PHP+Enthusiast;Working+From+Home+%F0%9F%8F%A0" alt="Typing SVG" />
 
 <!-- ============ PROFILE VIEWS + FOLLOWERS ============ -->
 <p>
@@ -28,7 +28,7 @@ class Mort extends Developer
 }
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 - 🔭 Working on **web projects** — check out [morthehe.github.io](https://github.com/MortHehe/morthehe.github.io)
 - 🌱 Diving deeper into **PHP & Laravel**
@@ -109,8 +109,8 @@ class Mort extends Developer
 <div align="center">
 
 <a href="https://morthehe.github.io"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="Website" /></a>
-<a href="mailto:meidyaeka5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/ekameidya_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
